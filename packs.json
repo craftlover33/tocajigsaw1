@@ -1,0 +1,68 @@
+{
+  "packDatas": [
+    {
+      "name": "",
+      "iconUrl": "",
+      "price": 99,
+      "photoDatas": [
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "",
+      "iconUrl": "",
+      "price": 99,
+      "photoDatas": [
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        },
+        {
+          "iconUrl": "",
+          "imageUrl": "",
+          "bannerUrl": ""
+        }
+      ]
+    }
+  ]
+}
